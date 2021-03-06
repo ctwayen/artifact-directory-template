@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+GCN on 3d Points
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+This research focuses on 3D shape classification. Our goal is to predict the category of shapes consisting of 3D data points. We aim to implement Graph Neural Network models and compare the performances with PointNet, a popular architecture for 3d points cloud classification tasks. Not only will we compare standard metrics such as accuracy and confusion matrix, we will also explore the model's resilience of data transformation. Besides, we also tried combining PointNet with graph pooling layers.
