@@ -2,4 +2,5 @@ Title:
 GCN on 3d Points
 
 Abstract:
-This research focuses on 3D shape classification. Our goal is to predict the category of shapes consisting of 3D data points. We aim to implement Graph Neural Network models and compare the performances with PointNet, a popular architecture for 3d points cloud classification tasks. Not only will we compare standard metrics such as accuracy and confusion matrix, we will also explore the model's resilience of data transformation. Besides, we also tried combining PointNet with graph pooling layers.
+This research focuses on 3D shape classification. Our goal is to predict the category of shapes consisting of 3D data points. We aim to implement Graph Neural Network models and compare the performances with the PointNet, a popular architecture for 3d points cloud classification tasks. Not only will we compare standard metrics such as accuracy and confusion matrix, we will also explore the model's resilience on data transformation. What’s more, we tried combining PointNet with graph pooling layers. Our experiment shows that even though PointNet has a higher accuracy overall, GCN has much more reasonable misclassification and is much more robust to data augmentation. 
+
